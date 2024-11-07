@@ -1,0 +1,29 @@
+.head{
+    background-color: chocolate;
+    height: 12vh;
+    width: 45vh;
+    display: flex;
+    justify-content: center;
+    margin-left: -12%;
+    font-size: 70%;
+    padding: -2%;
+    margin: 0%;
+}
+#prev{
+    background-color: rgb(53, 66, 244);
+    height: 10vh;
+    width: 14vh;
+}
+#next{
+    background-color: rgb(22, 204, 38);
+    height: 10vh;
+    width: 14vh;
+}
+.box{
+    width: 286px;
+  border: 16px solid #3c403c;
+  padding: 27px;
+  margin: 20px;
+  margin-left: 35%;
+  margin-top: 10%;
+}
